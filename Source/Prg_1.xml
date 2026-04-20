@@ -135,7 +135,7 @@
               <LogicLine>
                 <Remark FlowIsn="1">
                   <Type val="0"/>
-                  <Text val="These fields are used in the Multi-tasking programs, to test Main Program initialization"/>
+                  <Text val="These fields are used in the Multi-tasking programs, to test Main Program TEST  initialization"/>
                 </Remark>
               </LogicLine>
               <LogicLine>
