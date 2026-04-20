@@ -4,8 +4,21 @@
   <Header>
     <Version val="14121.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="0"/>
+    <LastIsn val="2"/>
     <LastIsnFolder val="0"/>
   </Header>
+
+  <RightsRepository>
+    <Rights>
+      <Right id="1" name="TOPSECRET">
+        <PublicRight val="Y"/>
+        <Key val="TOPSECRET"/>
+      </Right>
+      <Right id="2" name="ULTRA">
+        <PublicRight val="N"/>
+        <Key val="ULTRA"/>
+      </Right>
+    </Rights>
+  </RightsRepository>
 
 </Application>

@@ -11,9 +11,11 @@
     <ProjectData>
       <GUID val="{B4B5F727-A3DE-43F5-90D4-3BD762165113}"/>
       <RemoteFlowMonitorRight comp="-1"/>
+      <ApplColorDefinitionFile val="%WorkingDir%Support\Color_Runtime.eng"/>
+      <ApplFontDefinitionFile val="%WorkingDir%Support\Font_Runtime.eng"/>
       <NulArithmetic val="N"/>
       <WindowSortBy val="R"/>
-      <_SystemPulldownMenu comp="-1" obj="1"/>
+      <_SystemPulldownMenu comp="-1" obj="3"/>
       <_SystemContextMenu comp="-1"/>
       <ExposeComment val="N"/>
       <ProjectName val="MagicXPA"/>
