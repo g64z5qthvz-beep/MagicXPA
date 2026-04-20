@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="Y">
         <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
-          <LastModified _date="739726" _time="62645" date="20/04/2026" time="17:24:05"/>
+          <LastModified _date="739726" _time="73294" date="20/04/2026" time="20:21:34"/>
           <Resident val="N"/>
           <SQL val="N"/>
           <ReturnValue>
@@ -190,7 +190,7 @@
               <LogicLine>
                 <Remark FlowIsn="5">
                   <Type val="2"/>
-                  <Text val="This section gets executed whenever a user logs TEST min, or a new context startstest"/>
+                  <Text val="This section gets executed whenever a user logs min, or a new context startstest"/>
                 </Remark>
               </LogicLine>
               <LogicLine>
